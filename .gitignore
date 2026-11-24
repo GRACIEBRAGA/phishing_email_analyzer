@@ -1,0 +1,5 @@
+# Real emails contain personal data - never upload them
+*.eml
+!examples/*.eml
+phishing_report.md
+__pycache__/
